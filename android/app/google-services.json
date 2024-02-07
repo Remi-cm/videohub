@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "172978851082",
+    "firebase_url": "https://lepoteau-80eb8.firebaseio.com",
+    "project_id": "lepoteau-80eb8",
+    "storage_bucket": "lepoteau-80eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172978851082:android:f5c3f1c5a3b59419",
+        "android_client_info": {
+          "package_name": "cm.ubuea.apitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172978851082-ksls2urs8c8i3fhhgbvhgbbserg8mq9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAv3RMUVB5dn8zwm70AGgXsp8Bzs4KSm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172978851082-ksls2urs8c8i3fhhgbvhgbbserg8mq9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172978851082:android:c506c372744d95fb3f7ef3",
+        "android_client_info": {
+          "package_name": "com.example.lepoteau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172978851082-ksls2urs8c8i3fhhgbvhgbbserg8mq9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAv3RMUVB5dn8zwm70AGgXsp8Bzs4KSm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172978851082-ksls2urs8c8i3fhhgbvhgbbserg8mq9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172978851082:android:0ad5fd2cd6e3c3913f7ef3",
+        "android_client_info": {
+          "package_name": "com.example.videohub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172978851082-ksls2urs8c8i3fhhgbvhgbbserg8mq9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAv3RMUVB5dn8zwm70AGgXsp8Bzs4KSm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172978851082-ksls2urs8c8i3fhhgbvhgbbserg8mq9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
